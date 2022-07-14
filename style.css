@@ -426,7 +426,7 @@
 /* CONTACTO */
 
 .body_contacto{
-    background-image: url(../ProyectoBS/Fotos/portada2.jpg);
+    background-image: url(./Fotos/portada2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -573,7 +573,9 @@
     margin-top: 40px;
 }
 
-
+ul{
+    padding-left: 0px !important;
+}
 .lista_contacto li{
     display: block;
     text-align: center;
